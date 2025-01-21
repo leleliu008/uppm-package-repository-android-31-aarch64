@@ -16,7 +16,7 @@ sed -n '/^dep-pkg:/p' *.yml | cut -c10- | tr ' ' '\n' | sort | uniq > b
 
 SED="sed -e s|^-||"
 
-for item in d8 v8 skia pdfium webrtc tensorflow-lite libvips librsvg libint dash
+for item in d8 v8 skia pdfium webrtc fortune luajit libqalculate
 do
     SED="$SED -e /^$item$/d"
 done
@@ -77,12 +77,18 @@ do
 
     runs-on: ubuntu-latest
 
-    container: fpliu/ndk-pkg
+    container: ubuntu:24.04
 
     steps:
-      - run: /usr/bin/ndk-pkg about
-      - run: /usr/bin/ndk-pkg setup
-      - run: /usr/bin/ndk-pkg update
+      - run: apt -y update
+      - run: apt -y install curl
+
+      - run: curl -LO https://raw.githubusercontent.com/leleliu008/ndk-pkg/master/ndk-pkg
+      - run: chmod a+x ndk-pkg
+
+      - run: ./ndk-pkg about
+      - run: ./ndk-pkg setup
+      - run: ./ndk-pkg update
 
       - run: |
           sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
@@ -90,27 +96,19 @@ do
           sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
           sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
 
-      - name: build
-        run: |
-          case \${{ matrix.pkg }} in
-            cmake)
-              /usr/bin/ndk-pkg install android-34-arm64-v8a/\${{ matrix.pkg }} --static
-              ;;
-            *)
-              /usr/bin/ndk-pkg install android-31-arm64-v8a/\${{ matrix.pkg }}
-              ;;
-          esac
+      - run: ./ndk-pkg install android-31-arm64-v8a/\${{ matrix.pkg }}
 
-      - name: pack
+      - name: bundle
         run: |
           set -ex
-          for item in \$(/usr/bin/ndk-pkg ls-installed)
-          do
-              /usr/bin/ndk-pkg pack "\$item" -o .
 
-              PACKAGE_SUMMARY="\$(/usr/bin/ndk-pkg info-installed "\$item" summary)"
-              PACKAGE_WEB_URL="\$(/usr/bin/ndk-pkg info-installed "\$item" web-url)"
-              PACKAGE_VERSION="\$(/usr/bin/ndk-pkg info-installed "\$item" version)"
+          for item in \$(./ndk-pkg ls-installed)
+          do
+              ./ndk-pkg bundle "\$item" .tar.xz
+
+              PACKAGE_SUMMARY="\$(./ndk-pkg info-installed "\$item" summary)"
+              PACKAGE_WEB_URL="\$(./ndk-pkg info-installed "\$item" web-url)"
+              PACKAGE_VERSION="\$(./ndk-pkg info-installed "\$item" version)"
 
               PACKAGE_NAME="\${item#*/}"
 
