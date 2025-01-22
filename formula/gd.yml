@@ -1,0 +1,5 @@
+summary: Graphics library to dynamically manipulate images
+webpage: https://libgd.github.io/
+version: 2.3.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/gd-2.3.3-android-31-arm64-v8a.release.tar.xz
+bin-sha: 45d4e9faea14dbca2df7c5157c5de2c2b4b9223064669476d2857b729c679d8d

@@ -1,0 +1,5 @@
+summary: Implementations for atomic memory update operations
+webpage: https://github.com/ivmai/libatomic_ops
+version: 7.8.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libatomic_ops-7.8.2-android-31-arm64-v8a.release.tar.xz
+bin-sha: 44bc60001379c6fa9b8d5f6742e737f061f6793eb72bccc45b22a724e95d6c3f

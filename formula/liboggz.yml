@@ -1,0 +1,5 @@
+summary: C library for manipulating Ogg files
+webpage: https://www.xiph.org/oggz/
+version: 1.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/liboggz-1.1.1-android-31-arm64-v8a.release.tar.xz
+bin-sha: fbb247fa6eb210f18d637a78025ab4331e4d5dfabb44752d02a2a8a9189dc59e

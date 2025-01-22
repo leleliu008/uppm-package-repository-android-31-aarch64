@@ -1,0 +1,5 @@
+summary: Tool Command Language
+webpage: https://www.tcl-lang.org
+version: 8.6.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/tcl-8.6.14-android-31-arm64-v8a.release.tar.xz
+bin-sha: 4628935d50cab73de6e06459068ea93f41a6bf8b36e0fec6280f245dce0cb82a

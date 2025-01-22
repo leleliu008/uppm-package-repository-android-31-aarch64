@@ -1,0 +1,5 @@
+summary: Library for computing and verifying hash sums of files
+webpage: http://rhash.sourceforge.net
+version: 1.4.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/librhash-1.4.4-android-31-arm64-v8a.release.tar.xz
+bin-sha: ccd7b115dfc825997ef1cf0652c6fd132df91df14e70678cd311b1e71ddcc4a3

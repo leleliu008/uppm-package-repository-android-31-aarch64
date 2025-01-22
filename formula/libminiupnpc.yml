@@ -1,0 +1,5 @@
+summary: UPnP IGD client library and daemon
+webpage: https://miniupnp.tuxfamily.org
+version: 2.2.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libminiupnpc-2.2.7-android-31-arm64-v8a.release.tar.xz
+bin-sha: 60ad067ba2611a1a58a9c2e528b9ad41a0fcd0f4c2a6a22e0abcd913b93b4bca

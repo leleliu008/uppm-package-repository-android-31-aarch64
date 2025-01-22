@@ -1,0 +1,5 @@
+summary: Library for manipulating PNG images
+webpage: http://www.libpng.org/pub/png/libpng.html
+version: 1.6.43
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libpng-1.6.43-android-31-arm64-v8a.release.tar.xz
+bin-sha: 7332815f660b7137a86cfc32f4e4c57f81e81257d3ecd1b1379de38c6b8dcc43

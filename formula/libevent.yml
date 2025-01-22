@@ -1,0 +1,5 @@
+summary: Asynchronous event library
+webpage: https://libevent.org/
+version: 2.1.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libevent-2.1.12-android-31-arm64-v8a.release.tar.xz
+bin-sha: 5d9bfe18d7e914740ae99d1eed04f4044b648555245a20192456e62951a1baf6

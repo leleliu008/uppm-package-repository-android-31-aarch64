@@ -1,0 +1,5 @@
+summary: Image manipulation library
+webpage: https://www.ijg.org/
+version: 9f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libjpeg-9f-android-31-arm64-v8a.release.tar.xz
+bin-sha: e497e89985684154adc6bce433db9dcf72a1938f7585be45307720bc01a4da29

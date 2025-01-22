@@ -1,0 +1,5 @@
+summary: Arbitrary precision numeric processing language
+webpage: https://www.gnu.org/software/bc
+version: 1.07.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/bc-1.07.1-android-31-arm64-v8a.release.tar.xz
+bin-sha: 62b4e342b405208d6f119bd5ff962e47351b9faa8c5e6b38d5c4b56afa7ea9af

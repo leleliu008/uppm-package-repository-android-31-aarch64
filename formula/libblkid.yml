@@ -1,0 +1,5 @@
+summary: DCE compatible Universally Unique Identifier library
+webpage: https://github.com/util-linux/util-linux
+version: 2.40.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libblkid-2.40.2-android-31-arm64-v8a.release.tar.xz
+bin-sha: 2c4096f2900a1cc03bcc6225d004c8053604e6fd8c71c8d8df678d8026ff7ac1

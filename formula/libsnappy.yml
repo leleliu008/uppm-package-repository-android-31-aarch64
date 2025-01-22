@@ -1,0 +1,5 @@
+summary: Compression/decompression library aiming for high speed
+webpage: https://google.github.io/snappy
+version: 1.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libsnappy-1.2.0-android-31-arm64-v8a.release.tar.xz
+bin-sha: e8494aa1a8d759be2902ac616496372d58a4011c100de9add7e85dff0ca5d369

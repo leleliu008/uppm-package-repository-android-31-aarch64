@@ -1,0 +1,5 @@
+summary: GNU multiple precision arithmetic library
+webpage: https://gmplib.org/
+version: 6.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libgmp-6.3.0-android-31-arm64-v8a.release.tar.xz
+bin-sha: e3dac0593c8a6349b0ad02f4fa45239bd4323aa7d20bacf0c966cdb1f67916d1

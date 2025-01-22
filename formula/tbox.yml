@@ -1,0 +1,5 @@
+summary: A glib-like multi-platform c library
+webpage: https://tboox.org/
+version: 1.7.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/tbox-1.7.5-android-31-arm64-v8a.release.tar.xz
+bin-sha: 874fb0383d07170d1616f7d0c633f897a8fd337f202d6d5e315f643286f62a28

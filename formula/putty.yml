@@ -1,0 +1,5 @@
+summary: Implementation of Telnet and SSH
+webpage: https://www.chiark.greenend.org.uk/~sgtatham/putty/
+version: 0.81
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/putty-0.81-android-31-arm64-v8a.release.tar.xz
+bin-sha: 165d8433df3455e69cb77a4577a28bb5a597ca7fc826da9764ada79ea21308d0

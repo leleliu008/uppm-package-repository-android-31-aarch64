@@ -1,0 +1,5 @@
+summary: Library for encoding and decoding .avif files
+webpage: https://github.com/AOMediaCodec/libavif
+version: 1.0.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libavif-1.0.4-android-31-arm64-v8a.release.tar.xz
+bin-sha: 9e5e2dd8c7fbc7354d4f041f65ffb1596e610ba631b1c7277576113e2bb3bb6a

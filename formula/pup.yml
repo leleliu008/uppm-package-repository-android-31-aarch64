@@ -1,0 +1,5 @@
+summary: Parse HTML at the command-line
+webpage: https://github.com/EricChiang/pup
+version: 2025.01.22
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/pup-2025.01.22-android-31-arm64-v8a.release.tar.xz
+bin-sha: fbd665507b2cc267fd31e53bb62ec1583c4e4837a27719c39ce300422818cd2b

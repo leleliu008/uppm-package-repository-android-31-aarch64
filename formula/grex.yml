@@ -1,0 +1,5 @@
+summary: A command-line tool for generating regular expressions from user-provided test cases
+webpage: https://github.com/pemistahl/grex
+version: 1.4.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/grex-1.4.5-android-31-arm64-v8a.release.tar.xz
+bin-sha: 8a58d947df046a47f3496c0a315499acb4596a584dfe73ced496b116c9c22b51

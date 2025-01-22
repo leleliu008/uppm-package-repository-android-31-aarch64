@@ -1,0 +1,5 @@
+summary: Linux Capability Library
+webpage: https://git.kernel.org/pub/scm/libs/libcap/libcap.git
+version: 2.70
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libcap-2.70-android-31-arm64-v8a.release.tar.xz
+bin-sha: 37c603216115fdf993ad4c6b4abdeb9f7b8c54ea234708dcc3549ddb03d50ce1
