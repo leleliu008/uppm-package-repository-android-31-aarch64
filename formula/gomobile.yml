@@ -1,5 +1,5 @@
 summary: A tool for building and running mobile apps written in Go
 webpage: https://github.com/golang/mobile
-version: 2025.01.22
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/gomobile-2025.01.22-android-31-arm64-v8a.release.tar.xz
-bin-sha: 82b7d594f67dbb258ed84df61de805fe12071499c523e3bc2980f913d1cdcf8d
+version: 2025.01.28
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/gomobile-2025.01.28-android-31-arm64-v8a.release.tar.xz
+bin-sha: b0cd11522eebfc712dbf53f271d0462d603420f0107846a75e0d14f0b260293d

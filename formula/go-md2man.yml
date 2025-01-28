@@ -1,5 +1,5 @@
 summary: Converts markdown into roff (man pages)
 webpage: https://github.com/cpuguy83/go-md2man
 version: 2.0.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/go-md2man-2.0.4-android-31-arm64-v8a.release.tar.xz
-bin-sha: ecd7fab86c1fbac095d59fa80b921adf7ee8797ad57f5deec556ca5380d210e2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/go-md2man-2.0.4-android-31-arm64-v8a.release.tar.xz
+bin-sha: f4d087081ddc69d8ade48110ac5c0688a29f486cb39fd71533a2f4aa9fb38b35

@@ -1,5 +1,5 @@
 summary: Programs for accessing Microsoft Word documents
 webpage: https://wvware.sourceforge.net/
 version: 0.4.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libwv2-0.4.2-android-31-arm64-v8a.release.tar.xz
-bin-sha: 6db882635b25fa51abd2a34a2bed84259e44fb30b3eeff72ada58f42937f92a3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/libwv2-0.4.2-android-31-arm64-v8a.release.tar.xz
+bin-sha: 4a89371eb9553429861e226277b580d9d03a08f5b87487976d30859b4b64636b

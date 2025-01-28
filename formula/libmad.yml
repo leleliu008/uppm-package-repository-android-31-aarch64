@@ -1,0 +1,5 @@
+summary: MPEG audio decoder
+webpage: https://www.underbit.com/products/mad/
+version: 0.15.1b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/libmad-0.15.1b-android-31-arm64-v8a.release.tar.xz
+bin-sha: 7cdae49419514cb5daabf02bd52ab91155f8e5541f933483eaad8a7cdfd3541b

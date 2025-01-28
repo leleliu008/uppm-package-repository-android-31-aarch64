@@ -1,5 +1,5 @@
 summary: SkCMS
 webpage: https://skia.googlesource.com/skcms.git
-version: 2025.01.22
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/skcms-2025.01.22-android-31-arm64-v8a.release.tar.xz
-bin-sha: 26c81bfee607083e9f9bf676422d6fce98594e78e1ff03dd126abef5442411d9
+version: 2025.01.28
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/skcms-2025.01.28-android-31-arm64-v8a.release.tar.xz
+bin-sha: e597fcae941790ddead17aee52ad159d770f55d842eb346b96a8a1ebe26f2966

@@ -1,5 +1,5 @@
 summary: Blu-Ray disc playback library for media players like VLC
 webpage: https://www.videolan.org/developers/libbluray.html
 version: 1.3.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libbluray-1.3.4-android-31-arm64-v8a.release.tar.xz
-bin-sha: 1b3cc6e6d3f7aeb1376bb3258a121c63c323ff21cfeb45e9f3116a848f6a231c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/libbluray-1.3.4-android-31-arm64-v8a.release.tar.xz
+bin-sha: 836d206b43137d1369b92d917e4b37950f81aebc5df6c4f320154f06bbabb878

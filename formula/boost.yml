@@ -1,5 +1,5 @@
 summary: A collection of portable C++ source libraries
 webpage: https://www.boost.org
 version: 1.84.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/boost-1.84.0-android-31-arm64-v8a.release.tar.xz
-bin-sha: 76277e970e6b5910b99074e303e0f1f9144db9d32ac4828606e497646df631b2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/boost-1.84.0-android-31-arm64-v8a.release.tar.xz
+bin-sha: 3cd03b44062468faef5fc2577a85435335aee4e05ca46660ff088f4fc8144628

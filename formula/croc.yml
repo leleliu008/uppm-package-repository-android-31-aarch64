@@ -1,5 +1,5 @@
 summary: A command-line tool that allows you to easily and securely send files from one computer to another
 webpage: https://github.com/schollz/croc
 version: 10.0.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/croc-10.0.8-android-31-arm64-v8a.release.tar.xz
-bin-sha: ae9c0b01e25424471c1f812edd1822a7c2277e8f6b448b0406deabc69d581db4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/croc-10.0.8-android-31-arm64-v8a.release.tar.xz
+bin-sha: 2f2ff6d4d7a1dfc6b5db216cfe4695dd2f831099fa9960f0bd72f8316c9193e4

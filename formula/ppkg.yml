@@ -1,5 +1,5 @@
 summary: A portable package manager for Unix-like systems
 webpage: https://github.com/leleliu008/ppkg
 version: 0.1000.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/ppkg-0.1000.2-android-31-arm64-v8a.release.tar.xz
-bin-sha: 062b4d46235a0af2a7b2c238074b72cc4db4ac415a9c7ac17445f45d36f9802d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/ppkg-0.1000.2-android-31-arm64-v8a.release.tar.xz
+bin-sha: 8dd5a7ed318aa177cc684784001ad15863fd6dba1f1959b25dfde3bafd40ac87

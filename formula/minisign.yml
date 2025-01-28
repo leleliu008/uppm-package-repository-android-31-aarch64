@@ -1,5 +1,5 @@
 summary: A dead simple tool to sign files and verify signatures
 webpage: https://jedisct1.github.io/minisign/
 version: 0.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/minisign-0.11-android-31-arm64-v8a.release.tar.xz
-bin-sha: 6119bc643d8700873b8c377724c59f26e74b88ae8b37a03fada57adda549f21f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/minisign-0.11-android-31-arm64-v8a.release.tar.xz
+bin-sha: 3be92949bb394a61f8a3b5b0517f9a9ae79c0932b85d39a803097c4ed93915e6

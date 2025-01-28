@@ -1,5 +1,5 @@
 summary: C implementations of the BLAKE3 cryptographic hash function
 webpage: https://github.com/BLAKE3-team/BLAKE3
 version: 1.5.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libblake3-1.5.1-android-31-arm64-v8a.release.tar.xz
-bin-sha: 59061b668c9ad20528228798006fa9a4014f5936214e16e2fbbae82e3574a771
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/libblake3-1.5.1-android-31-arm64-v8a.release.tar.xz
+bin-sha: 5297567a7e054974ef876ca60eabcfc0ff47d232ba4f8706a35d40e76e20453a

@@ -1,5 +1,5 @@
 summary: A simple command line utility to make DNS lookups to the specified server
 webpage: https://github.com/ameshkov/dnslookup
 version: 1.10.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/dnslookup-1.10.0-android-31-arm64-v8a.release.tar.xz
-bin-sha: df85cb701761275d1c8ec821dd384bf999b83aa09f4001d91e5a24b660983f0f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/dnslookup-1.10.0-android-31-arm64-v8a.release.tar.xz
+bin-sha: 7e965df610dbdb25c63eb6378b47312a5ff6c86619db87c1730eaecc527880aa

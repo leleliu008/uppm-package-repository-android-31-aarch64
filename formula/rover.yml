@@ -1,5 +1,5 @@
 summary: CLI for managing and maintaining data graphs with Apollo Studio
 webpage: https://www.apollographql.com/docs/rover/
 version: 0.26.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/rover-0.26.3-android-31-arm64-v8a.release.tar.xz
-bin-sha: e5564fa074f7ce42b02b3f60aa6432a0e728b5d283c6aa746ac7ee861ece3c36
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/rover-0.26.3-android-31-arm64-v8a.release.tar.xz
+bin-sha: 3cb987c87c6f2528a39e9dd7cd3ec350916ebba9d4e804508a0f471374d6efc2

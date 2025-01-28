@@ -1,5 +1,5 @@
 summary: Data compression library
 webpage: https://www.nongnu.org/lzip/lzlib.html
 version: 1.14
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/lzlib-1.14-android-31-arm64-v8a.release.tar.xz
-bin-sha: ca6d67154d65a41e56059ac21d670f1311a72faf42b9f5a839da69c1cd3776a6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/lzlib-1.14-android-31-arm64-v8a.release.tar.xz
+bin-sha: acebea914e8f122a7d659c850bf97aeee469144fa34802062b5c27576b1c057f

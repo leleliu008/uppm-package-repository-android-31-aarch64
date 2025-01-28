@@ -1,5 +1,5 @@
 summary: A C library that provides an easy way to add styling to programs that produce output to a console or terminal emulator window
 webpage: https://www.gnu.org/software/gettext
 version: 0.22.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libtextstyle-0.22.5-android-31-arm64-v8a.release.tar.xz
-bin-sha: 708cbf51341b7f1cd71468c0a9bfa03779b7ee9fb91b6c6fa76d951c0d2438e3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/libtextstyle-0.22.5-android-31-arm64-v8a.release.tar.xz
+bin-sha: c59698d7b747fd9f0455c057c88b39a51d9159452ba42aaa5b886f198837ff6e

@@ -1,5 +1,5 @@
 summary: Upload multiple artifacts to GitHub Release in parallel
 webpage: https://tcnksm.github.io/ghr
 version: 0.16.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/ghr-0.16.2-android-31-arm64-v8a.release.tar.xz
-bin-sha: 1868c73518cad4f35294c2359bde97749cf3834cb6745abacdf449c5321c7967
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/ghr-0.16.2-android-31-arm64-v8a.release.tar.xz
+bin-sha: 601eaf33980363616d9d7d656b239ca087effbc18c1840d99135ba2cce7c1d2c

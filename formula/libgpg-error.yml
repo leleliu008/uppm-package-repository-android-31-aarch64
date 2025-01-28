@@ -1,5 +1,5 @@
 summary: Common error values for all GnuPG components
 webpage: https://www.gnupg.org/related_software/libgpg-error
 version: 1.49
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libgpg-error-1.49-android-31-arm64-v8a.release.tar.xz
-bin-sha: d407c3ef4048d05124bc46062df00ff714fa18e38246d64787c69f7cc32ad9e5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/libgpg-error-1.49-android-31-arm64-v8a.release.tar.xz
+bin-sha: af35da6352527b0f9fcb57b979fffb048df7ffee10757a658b7aa10d9b71d1b3

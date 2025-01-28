@@ -1,5 +1,5 @@
 summary: A command-line tool to download videos from youtube.com
 webpage: https://github.com/kkdai/youtube
-version: 2.10.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/youtubedr-2.10.1-android-31-arm64-v8a.release.tar.xz
-bin-sha: 9b8a5a0bfb5666b66ea273eb9b9157e8bc1d48584792f8835f3b6b593a29da3c
+version: 2.10.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/youtubedr-2.10.2-android-31-arm64-v8a.release.tar.xz
+bin-sha: e5b40708bfab2a0000df03042b8f82f8e266edf2cb162cfec19f03ffc630dd2c

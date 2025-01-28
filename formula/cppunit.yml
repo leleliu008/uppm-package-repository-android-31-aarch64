@@ -1,5 +1,5 @@
 summary: Unit testing framework for C++
 webpage: https://wiki.freedesktop.org/www/Software/cppunit/
 version: 1.15.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/cppunit-1.15.1-android-31-arm64-v8a.release.tar.xz
-bin-sha: 505ce33d1144c9075aa1ec45d7291a3eecef8577572dc033c700af158b766a11
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/cppunit-1.15.1-android-31-arm64-v8a.release.tar.xz
+bin-sha: 25e8cef9fb644d15e5bea8ae9cbd31dc38f49c011f57759593bed2dfaf03e770

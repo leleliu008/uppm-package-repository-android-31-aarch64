@@ -1,5 +1,5 @@
 summary: Improved JPEG encoder
 webpage: https://github.com/mozilla/mozjpeg
 version: 4.1.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/mozjpeg-4.1.5-android-31-arm64-v8a.release.tar.xz
-bin-sha: cc9d78b0a5d4c5a8c5ba0221edd64e9b2c61dffdb4397d2e8f6ddd3fbf55526d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/mozjpeg-4.1.5-android-31-arm64-v8a.release.tar.xz
+bin-sha: f555429a8a4b5af440ac7ed0ddb2b2fcccd9728c86075c51fc5cd6ece266dc7d

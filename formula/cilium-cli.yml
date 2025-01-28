@@ -1,5 +1,5 @@
 summary: CLI to install, manage & troubleshoot Kubernetes clusters running Cilium
 webpage: https://cilium.io
 version: 0.16.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/cilium-cli-0.16.10-android-31-arm64-v8a.release.tar.xz
-bin-sha: 32da47bf49bdc1d6623ab128c36c0a37a7399087984aa7676ed18da8df2dfbdb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/cilium-cli-0.16.10-android-31-arm64-v8a.release.tar.xz
+bin-sha: 30af01c177decade2a9a593072c9ebdf7b8052901ac56d70a303fc704ca67184

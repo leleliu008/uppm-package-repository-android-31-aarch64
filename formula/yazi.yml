@@ -1,0 +1,5 @@
+summary: Blazing fast terminal file manager written in Rust, based on async I/O
+webpage: https://github.com/sxyazi/yazi
+version: 0.4.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/yazi-0.4.2-android-31-arm64-v8a.release.tar.xz
+bin-sha: f66556334f0e8516412bdffb63d91eba740234af4d470e407775b833905bc769

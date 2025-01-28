@@ -1,5 +1,5 @@
 summary: Human-friendly and fast alternative to cut and (sometimes) awk
 webpage: https://github.com/theryangeary/choose
 version: 1.3.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/choose-1.3.1-android-31-arm64-v8a.release.tar.xz
-bin-sha: e3d81c2e2a42db18a82fb061caa2b27d019bac7feeefc46c4f619e0e6e2fdb82
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/choose-1.3.1-android-31-arm64-v8a.release.tar.xz
+bin-sha: ef150845da95cd0c70fd7842159aa2f3f8f29fa816b2e2f9a044f24c91592154

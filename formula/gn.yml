@@ -1,5 +1,5 @@
 summary: A meta-build system for generating build files for ninja
 webpage: https://gn.googlesource.com/gn
-version: 2025.01.22
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/gn-2025.01.22-android-31-arm64-v8a.release.tar.xz
-bin-sha: 79f863f08fcd973544e0764cda3ebe8032fbcb8b32a4b15042acb577ffa0f8af
+version: 2025.01.28
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/gn-2025.01.28-android-31-arm64-v8a.release.tar.xz
+bin-sha: d871a18dd897daf42d0d77d209d383b5d2808e839943adcfebc074cdc5baf440

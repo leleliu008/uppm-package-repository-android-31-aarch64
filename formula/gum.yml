@@ -1,5 +1,5 @@
 summary: A tool for glamorous shell scripts
 webpage: https://github.com/charmbracelet/gum
 version: 0.14.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/gum-0.14.5-android-31-arm64-v8a.release.tar.xz
-bin-sha: 75db21bd5340b0ea11196a6e45a8ca45ffb2286593a62e3247a5b3de657a5be2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/gum-0.14.5-android-31-arm64-v8a.release.tar.xz
+bin-sha: 8d9c2e37f36b3f63573cf68ba761a4809e8e1741d86f0269bd67b3e071c63f4c

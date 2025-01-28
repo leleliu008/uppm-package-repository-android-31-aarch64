@@ -1,5 +1,5 @@
 summary: C library for manipulating Unicode strings
 webpage: https://www.gnu.org/software/libunistring
 version: 1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libunistring-1.2-android-31-arm64-v8a.release.tar.xz
-bin-sha: 5b093721a6968602db0024e8d7e09e9ddaaae878744517ec01874b8050958bce
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/libunistring-1.2-android-31-arm64-v8a.release.tar.xz
+bin-sha: 90d07b2ad7aaed241d45d3f45e08e0374ff5ac5b377e690d8d7e192704201376

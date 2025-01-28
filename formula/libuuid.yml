@@ -1,5 +1,5 @@
 summary: DCE compatible Universally Unique Identifier library
 webpage: https://github.com/util-linux/util-linux
 version: 2.40.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libuuid-2.40.2-android-31-arm64-v8a.release.tar.xz
-bin-sha: 7d53694e9edb529662665d7c9823fe48459cc676cf82248212434ad6d51fa50f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/libuuid-2.40.2-android-31-arm64-v8a.release.tar.xz
+bin-sha: 9dbdd76de6e6f89f6847c683422b822cb036f2dbb0a0ead9a9bc6d15452a5e92

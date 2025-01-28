@@ -1,5 +1,5 @@
 summary: C library for encoding .opus files
 webpage: https://opus-codec.org/
 version: 0.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libopusenc-0.2.1-android-31-arm64-v8a.release.tar.xz
-bin-sha: bd4ff586efd9b305d900e7ca7fce114f0ed6062c3eae7cdc378e273700af7739
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/libopusenc-0.2.1-android-31-arm64-v8a.release.tar.xz
+bin-sha: dc41aa96cecfa057d00c6e58a714540a68ad1c54de6289dea54fc0a70cdc1ad0

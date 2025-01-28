@@ -1,5 +1,5 @@
 summary: Run your GitHub Actions locally
 webpage: https://github.com/nektos/act
 version: 0.2.69
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/act-0.2.69-android-31-arm64-v8a.release.tar.xz
-bin-sha: 80071723d6e84a5fc0954c90f0d22dc7367a2b2ce9decb073329ec64d201d0bb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/act-0.2.69-android-31-arm64-v8a.release.tar.xz
+bin-sha: 987afef00efd9fe9ab0b9e8d62278c78c93b2ca6049f027244554b00f36f0f98

@@ -1,5 +1,5 @@
 summary: Library of 2D and 3D vector, matrix, and math operations
 webpage: https://www.openexr.com/
 version: 3.1.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/libImath-3.1.11-android-31-arm64-v8a.release.tar.xz
-bin-sha: f7609bdbc04457af588d86fe4dd376339efc8ab1189f57e51fbe7272c44786af
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/libImath-3.1.11-android-31-arm64-v8a.release.tar.xz
+bin-sha: 26c1d8039a71b6f337fd70557edc9a626c690c43a4efb440c3b3e21a92da4c30

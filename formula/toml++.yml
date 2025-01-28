@@ -1,5 +1,5 @@
 summary: A header-only C++17 (or later) library for parsing TOML
 webpage: https://marzer.github.io/tomlplusplus/
 version: 3.4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.22/toml++-3.4.0-android-aarch64.release.tar.xz
-bin-sha: d6eb36563521c18f051638f61044668f0013fa71bd3ffe29a09c280cb0431d5b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-31-aarch64/releases/download/2025.01.28/toml++-3.4.0-android-aarch64.release.tar.xz
+bin-sha: 0dc9bd81f119ff81677fe58366055affcd82955d5bba3463883b045c1bfdc0ee
