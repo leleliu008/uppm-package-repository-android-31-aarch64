@@ -1,0 +1,5 @@
+summary: a toolset that lets you implement parts of your Android app in native code
+webpage: https://developer.android.com/ndk
+version: r29
+bin-url: https://github.com/lzhiyong/termux-ndk/releases/download/android-ndk/android-ndk-r29-aarch64.7z
+bin-sha: 21ca4237997da6c601eda6de48418609d6d8308b26c631620ae57cf1fa06c4c7
